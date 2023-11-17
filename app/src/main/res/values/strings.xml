@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Speedometer App</string>
+
+    <string name="speed_limit_hint">Enter speed limit</string>
+    <string name="speed_limit_text">Speed Limit:</string>
+    <string name="current_speed_lbl">Current Speed:</string>
+
+    <string name="init_speed">-</string>
+
+    <string name="warning_message_long">Attention: You have exceeded the speed limit. Please reduce your speed to ensure your safety</string>
+    <string name="warning_message_short">You have exceeded the speed limit</string>
+    <string name="enter_valid_number">Please enter a valid number</string>
+    <string name="speed_limit_saved">"Speed limit updated"</string>
+
+    <!-- Permission Messages -->
+    <string name="location_permission_result_not_granted">You must give location permissions in order to use this feature</string>
+
+    <!-- Button Text -->
+    <string name="speedometer_start_btn">Start Speedometer</string>
+    <string name="speedometer_stop_btn">Stop Speedometer</string>
+    <string name="update_speed_limit_btn">Update Speed Limit</string>
+
+    <!-- Speed Violation List View -->
+    <string name="select_today">Today\'s Violations</string>
+    <string name="select_last_week">Last Week\'s Violations</string>
+    <string name="select_all">All Violations</string>
+    <string name="view_violations_btn">View History</string>
+
+    <string name="tap_violation_hint">Tap any violation to view it on the map</string>
+</resources>
