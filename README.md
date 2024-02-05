@@ -15,9 +15,3 @@ The Android Speedometer App offers a simple solution for monitoring and recordin
 - **Visual and Auditory Warnings:** Provides a visual cue by changing the activity screen color and triggers a TextToSpeech warning for users exceeding the set speed limit.
   
 - **Historical Violation Records:** Users can view violation records.
-
-## Getting Started
-
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Build and run the app on your Android device or emulator.
